@@ -1,0 +1,776 @@
+2016-03-31 23:43:41,213 [main] INFO  WalmartTicketService:209 - -----------------------------------------------------------------------------------------
+2016-03-31 23:43:41,232 [main] INFO  WalmartTicketService:210 -               SEATS IN VENUE LEVEL Orchestra (V=VACANT, H=HOLD, R=RESERVED)               
+2016-03-31 23:43:41,232 [main] INFO  WalmartTicketService:211 - -----------------------------------------------------------------------------------------
+2016-03-31 23:43:41,232 [main] INFO  WalmartTicketService:215 - 1A01:V   
+2016-03-31 23:43:41,232 [main] INFO  WalmartTicketService:215 - 1A02:V   
+2016-03-31 23:43:41,233 [main] INFO  WalmartTicketService:215 - 1A03:V   
+2016-03-31 23:43:41,233 [main] INFO  WalmartTicketService:215 - 1A04:V   
+2016-03-31 23:43:41,233 [main] INFO  WalmartTicketService:215 - 1A05:V   
+2016-03-31 23:43:41,233 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,233 [main] INFO  WalmartTicketService:215 - 1B01:V   
+2016-03-31 23:43:41,233 [main] INFO  WalmartTicketService:215 - 1B02:V   
+2016-03-31 23:43:41,234 [main] INFO  WalmartTicketService:215 - 1B03:V   
+2016-03-31 23:43:41,234 [main] INFO  WalmartTicketService:215 - 1B04:V   
+2016-03-31 23:43:41,234 [main] INFO  WalmartTicketService:215 - 1B05:V   
+2016-03-31 23:43:41,234 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,234 [main] INFO  WalmartTicketService:215 - 1C01:V   
+2016-03-31 23:43:41,234 [main] INFO  WalmartTicketService:215 - 1C02:V   
+2016-03-31 23:43:41,234 [main] INFO  WalmartTicketService:215 - 1C03:V   
+2016-03-31 23:43:41,235 [main] INFO  WalmartTicketService:215 - 1C04:V   
+2016-03-31 23:43:41,235 [main] INFO  WalmartTicketService:215 - 1C05:V   
+2016-03-31 23:43:41,235 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,235 [main] INFO  WalmartTicketService:215 - 1D01:V   
+2016-03-31 23:43:41,235 [main] INFO  WalmartTicketService:215 - 1D02:V   
+2016-03-31 23:43:41,235 [main] INFO  WalmartTicketService:215 - 1D03:V   
+2016-03-31 23:43:41,235 [main] INFO  WalmartTicketService:215 - 1D04:V   
+2016-03-31 23:43:41,236 [main] INFO  WalmartTicketService:215 - 1D05:V   
+2016-03-31 23:43:41,236 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,236 [main] INFO  WalmartTicketService:215 - 1E01:V   
+2016-03-31 23:43:41,236 [main] INFO  WalmartTicketService:215 - 1E02:V   
+2016-03-31 23:43:41,236 [main] INFO  WalmartTicketService:215 - 1E03:V   
+2016-03-31 23:43:41,236 [main] INFO  WalmartTicketService:215 - 1E04:V   
+2016-03-31 23:43:41,236 [main] INFO  WalmartTicketService:215 - 1E05:V   
+2016-03-31 23:43:41,237 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,237 [main] INFO  WalmartTicketService:226 - Total Available Seats = 25
+
+2016-03-31 23:43:41,237 [main] INFO  WalmartTicketService:75 - Could not find Venue Level. Returning total number of seats available in all levels...
+2016-03-31 23:43:41,237 [main] INFO  WalmartTicketService:209 - -----------------------------------------------------------------------------------------
+2016-03-31 23:43:41,237 [main] INFO  WalmartTicketService:210 -               SEATS IN VENUE LEVEL Orchestra (V=VACANT, H=HOLD, R=RESERVED)               
+2016-03-31 23:43:41,238 [main] INFO  WalmartTicketService:211 - -----------------------------------------------------------------------------------------
+2016-03-31 23:43:41,238 [main] INFO  WalmartTicketService:215 - 1A01:V   
+2016-03-31 23:43:41,238 [main] INFO  WalmartTicketService:215 - 1A02:V   
+2016-03-31 23:43:41,238 [main] INFO  WalmartTicketService:215 - 1A03:V   
+2016-03-31 23:43:41,238 [main] INFO  WalmartTicketService:215 - 1A04:V   
+2016-03-31 23:43:41,238 [main] INFO  WalmartTicketService:215 - 1A05:V   
+2016-03-31 23:43:41,238 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,238 [main] INFO  WalmartTicketService:215 - 1B01:V   
+2016-03-31 23:43:41,239 [main] INFO  WalmartTicketService:215 - 1B02:V   
+2016-03-31 23:43:41,239 [main] INFO  WalmartTicketService:215 - 1B03:V   
+2016-03-31 23:43:41,239 [main] INFO  WalmartTicketService:215 - 1B04:V   
+2016-03-31 23:43:41,239 [main] INFO  WalmartTicketService:215 - 1B05:V   
+2016-03-31 23:43:41,239 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,239 [main] INFO  WalmartTicketService:215 - 1C01:V   
+2016-03-31 23:43:41,239 [main] INFO  WalmartTicketService:215 - 1C02:V   
+2016-03-31 23:43:41,239 [main] INFO  WalmartTicketService:215 - 1C03:V   
+2016-03-31 23:43:41,239 [main] INFO  WalmartTicketService:215 - 1C04:V   
+2016-03-31 23:43:41,240 [main] INFO  WalmartTicketService:215 - 1C05:V   
+2016-03-31 23:43:41,240 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,240 [main] INFO  WalmartTicketService:215 - 1D01:V   
+2016-03-31 23:43:41,240 [main] INFO  WalmartTicketService:215 - 1D02:V   
+2016-03-31 23:43:41,240 [main] INFO  WalmartTicketService:215 - 1D03:V   
+2016-03-31 23:43:41,240 [main] INFO  WalmartTicketService:215 - 1D04:V   
+2016-03-31 23:43:41,241 [main] INFO  WalmartTicketService:215 - 1D05:V   
+2016-03-31 23:43:41,241 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,241 [main] INFO  WalmartTicketService:215 - 1E01:V   
+2016-03-31 23:43:41,241 [main] INFO  WalmartTicketService:215 - 1E02:V   
+2016-03-31 23:43:41,241 [main] INFO  WalmartTicketService:215 - 1E03:V   
+2016-03-31 23:43:41,242 [main] INFO  WalmartTicketService:215 - 1E04:V   
+2016-03-31 23:43:41,242 [main] INFO  WalmartTicketService:215 - 1E05:V   
+2016-03-31 23:43:41,242 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,242 [main] INFO  WalmartTicketService:226 - Total Available Seats = 25
+
+2016-03-31 23:43:41,248 [main] INFO  WalmartTicketService:119 - Customer does not exist in the system. New Customer with email, test0@gmail.com, will be added to the database. Processing request...
+2016-03-31 23:43:41,250 [main] INFO  WalmartTicketService:209 - -----------------------------------------------------------------------------------------
+2016-03-31 23:43:41,251 [main] INFO  WalmartTicketService:210 -               SEATS IN VENUE LEVEL Orchestra (V=VACANT, H=HOLD, R=RESERVED)               
+2016-03-31 23:43:41,251 [main] INFO  WalmartTicketService:211 - -----------------------------------------------------------------------------------------
+2016-03-31 23:43:41,251 [main] INFO  WalmartTicketService:215 - 1A01:H   
+2016-03-31 23:43:41,251 [main] INFO  WalmartTicketService:215 - 1A02:H   
+2016-03-31 23:43:41,251 [main] INFO  WalmartTicketService:215 - 1A03:H   
+2016-03-31 23:43:41,251 [main] INFO  WalmartTicketService:215 - 1A04:H   
+2016-03-31 23:43:41,251 [main] INFO  WalmartTicketService:215 - 1A05:V   
+2016-03-31 23:43:41,252 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,252 [main] INFO  WalmartTicketService:215 - 1B01:V   
+2016-03-31 23:43:41,252 [main] INFO  WalmartTicketService:215 - 1B02:V   
+2016-03-31 23:43:41,252 [main] INFO  WalmartTicketService:215 - 1B03:V   
+2016-03-31 23:43:41,252 [main] INFO  WalmartTicketService:215 - 1B04:V   
+2016-03-31 23:43:41,252 [main] INFO  WalmartTicketService:215 - 1B05:V   
+2016-03-31 23:43:41,252 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,253 [main] INFO  WalmartTicketService:215 - 1C01:V   
+2016-03-31 23:43:41,253 [main] INFO  WalmartTicketService:215 - 1C02:V   
+2016-03-31 23:43:41,253 [main] INFO  WalmartTicketService:215 - 1C03:V   
+2016-03-31 23:43:41,253 [main] INFO  WalmartTicketService:215 - 1C04:V   
+2016-03-31 23:43:41,253 [main] INFO  WalmartTicketService:215 - 1C05:V   
+2016-03-31 23:43:41,253 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,253 [main] INFO  WalmartTicketService:215 - 1D01:V   
+2016-03-31 23:43:41,253 [main] INFO  WalmartTicketService:215 - 1D02:V   
+2016-03-31 23:43:41,253 [main] INFO  WalmartTicketService:215 - 1D03:V   
+2016-03-31 23:43:41,253 [main] INFO  WalmartTicketService:215 - 1D04:V   
+2016-03-31 23:43:41,254 [main] INFO  WalmartTicketService:215 - 1D05:V   
+2016-03-31 23:43:41,254 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,254 [main] INFO  WalmartTicketService:215 - 1E01:V   
+2016-03-31 23:43:41,254 [main] INFO  WalmartTicketService:215 - 1E02:V   
+2016-03-31 23:43:41,254 [main] INFO  WalmartTicketService:215 - 1E03:V   
+2016-03-31 23:43:41,254 [main] INFO  WalmartTicketService:215 - 1E04:V   
+2016-03-31 23:43:41,254 [main] INFO  WalmartTicketService:215 - 1E05:V   
+2016-03-31 23:43:41,254 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,255 [main] INFO  WalmartTicketService:226 - Total Available Seats = 21
+
+2016-03-31 23:43:41,255 [main] INFO  WalmartTicketService:119 - Customer does not exist in the system. New Customer with email, test@gmail.com, will be added to the database. Processing request...
+2016-03-31 23:43:41,255 [main] INFO  WalmartTicketService:209 - -----------------------------------------------------------------------------------------
+2016-03-31 23:43:41,255 [main] INFO  WalmartTicketService:210 -               SEATS IN VENUE LEVEL Orchestra (V=VACANT, H=HOLD, R=RESERVED)               
+2016-03-31 23:43:41,256 [main] INFO  WalmartTicketService:211 - -----------------------------------------------------------------------------------------
+2016-03-31 23:43:41,256 [main] INFO  WalmartTicketService:215 - 1A01:H   
+2016-03-31 23:43:41,256 [main] INFO  WalmartTicketService:215 - 1A02:H   
+2016-03-31 23:43:41,256 [main] INFO  WalmartTicketService:215 - 1A03:H   
+2016-03-31 23:43:41,256 [main] INFO  WalmartTicketService:215 - 1A04:H   
+2016-03-31 23:43:41,256 [main] INFO  WalmartTicketService:215 - 1A05:V   
+2016-03-31 23:43:41,256 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,257 [main] INFO  WalmartTicketService:215 - 1B01:H   
+2016-03-31 23:43:41,257 [main] INFO  WalmartTicketService:215 - 1B02:H   
+2016-03-31 23:43:41,257 [main] INFO  WalmartTicketService:215 - 1B03:H   
+2016-03-31 23:43:41,258 [main] INFO  WalmartTicketService:215 - 1B04:V   
+2016-03-31 23:43:41,258 [main] INFO  WalmartTicketService:215 - 1B05:V   
+2016-03-31 23:43:41,258 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,258 [main] INFO  WalmartTicketService:215 - 1C01:V   
+2016-03-31 23:43:41,258 [main] INFO  WalmartTicketService:215 - 1C02:V   
+2016-03-31 23:43:41,259 [main] INFO  WalmartTicketService:215 - 1C03:V   
+2016-03-31 23:43:41,259 [main] INFO  WalmartTicketService:215 - 1C04:V   
+2016-03-31 23:43:41,259 [main] INFO  WalmartTicketService:215 - 1C05:V   
+2016-03-31 23:43:41,259 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,259 [main] INFO  WalmartTicketService:215 - 1D01:V   
+2016-03-31 23:43:41,259 [main] INFO  WalmartTicketService:215 - 1D02:V   
+2016-03-31 23:43:41,259 [main] INFO  WalmartTicketService:215 - 1D03:V   
+2016-03-31 23:43:41,259 [main] INFO  WalmartTicketService:215 - 1D04:V   
+2016-03-31 23:43:41,259 [main] INFO  WalmartTicketService:215 - 1D05:V   
+2016-03-31 23:43:41,260 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,260 [main] INFO  WalmartTicketService:215 - 1E01:V   
+2016-03-31 23:43:41,260 [main] INFO  WalmartTicketService:215 - 1E02:V   
+2016-03-31 23:43:41,260 [main] INFO  WalmartTicketService:215 - 1E03:V   
+2016-03-31 23:43:41,260 [main] INFO  WalmartTicketService:215 - 1E04:V   
+2016-03-31 23:43:41,260 [main] INFO  WalmartTicketService:215 - 1E05:V   
+2016-03-31 23:43:41,260 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,261 [main] INFO  WalmartTicketService:226 - Total Available Seats = 18
+
+2016-03-31 23:43:41,261 [main] INFO  WalmartTicketService:172 - SeatHold with id, 1, and customer with email, test0@gmail.com, found in the system. Processing request...
+2016-03-31 23:43:41,342 [main] INFO  WalmartTicketService:185 - SeatResevation with ID, 1, and for customer with email, test0@gmail.com, has been created in the system.
+2016-03-31 23:43:41,343 [main] INFO  WalmartTicketService:209 - -----------------------------------------------------------------------------------------
+2016-03-31 23:43:41,343 [main] INFO  WalmartTicketService:210 -               SEATS IN VENUE LEVEL Orchestra (V=VACANT, H=HOLD, R=RESERVED)               
+2016-03-31 23:43:41,343 [main] INFO  WalmartTicketService:211 - -----------------------------------------------------------------------------------------
+2016-03-31 23:43:41,343 [main] INFO  WalmartTicketService:215 - 1A01:R   
+2016-03-31 23:43:41,344 [main] INFO  WalmartTicketService:215 - 1A02:R   
+2016-03-31 23:43:41,344 [main] INFO  WalmartTicketService:215 - 1A03:R   
+2016-03-31 23:43:41,344 [main] INFO  WalmartTicketService:215 - 1A04:R   
+2016-03-31 23:43:41,344 [main] INFO  WalmartTicketService:215 - 1A05:V   
+2016-03-31 23:43:41,344 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,344 [main] INFO  WalmartTicketService:215 - 1B01:H   
+2016-03-31 23:43:41,344 [main] INFO  WalmartTicketService:215 - 1B02:H   
+2016-03-31 23:43:41,344 [main] INFO  WalmartTicketService:215 - 1B03:H   
+2016-03-31 23:43:41,344 [main] INFO  WalmartTicketService:215 - 1B04:V   
+2016-03-31 23:43:41,344 [main] INFO  WalmartTicketService:215 - 1B05:V   
+2016-03-31 23:43:41,344 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,345 [main] INFO  WalmartTicketService:215 - 1C01:V   
+2016-03-31 23:43:41,345 [main] INFO  WalmartTicketService:215 - 1C02:V   
+2016-03-31 23:43:41,345 [main] INFO  WalmartTicketService:215 - 1C03:V   
+2016-03-31 23:43:41,345 [main] INFO  WalmartTicketService:215 - 1C04:V   
+2016-03-31 23:43:41,345 [main] INFO  WalmartTicketService:215 - 1C05:V   
+2016-03-31 23:43:41,345 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,345 [main] INFO  WalmartTicketService:215 - 1D01:V   
+2016-03-31 23:43:41,345 [main] INFO  WalmartTicketService:215 - 1D02:V   
+2016-03-31 23:43:41,345 [main] INFO  WalmartTicketService:215 - 1D03:V   
+2016-03-31 23:43:41,345 [main] INFO  WalmartTicketService:215 - 1D04:V   
+2016-03-31 23:43:41,345 [main] INFO  WalmartTicketService:215 - 1D05:V   
+2016-03-31 23:43:41,345 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,346 [main] INFO  WalmartTicketService:215 - 1E01:V   
+2016-03-31 23:43:41,346 [main] INFO  WalmartTicketService:215 - 1E02:V   
+2016-03-31 23:43:41,346 [main] INFO  WalmartTicketService:215 - 1E03:V   
+2016-03-31 23:43:41,346 [main] INFO  WalmartTicketService:215 - 1E04:V   
+2016-03-31 23:43:41,346 [main] INFO  WalmartTicketService:215 - 1E05:V   
+2016-03-31 23:43:41,346 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:43:41,346 [main] INFO  WalmartTicketService:226 - Total Available Seats = 18
+
+2016-03-31 23:44:21,347 [main] INFO  WalmartTicketService:209 - -----------------------------------------------------------------------------------------
+2016-03-31 23:44:21,348 [main] INFO  WalmartTicketService:210 -               SEATS IN VENUE LEVEL Orchestra (V=VACANT, H=HOLD, R=RESERVED)               
+2016-03-31 23:44:21,348 [main] INFO  WalmartTicketService:211 - -----------------------------------------------------------------------------------------
+2016-03-31 23:44:21,349 [main] INFO  WalmartTicketService:215 - 1A01:V   
+2016-03-31 23:44:21,350 [main] INFO  WalmartTicketService:215 - 1A02:V   
+2016-03-31 23:44:21,350 [main] INFO  WalmartTicketService:215 - 1A03:V   
+2016-03-31 23:44:21,351 [main] INFO  WalmartTicketService:215 - 1A04:V   
+2016-03-31 23:44:21,351 [main] INFO  WalmartTicketService:215 - 1A05:V   
+2016-03-31 23:44:21,351 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:44:21,352 [main] INFO  WalmartTicketService:215 - 1B01:V   
+2016-03-31 23:44:21,352 [main] INFO  WalmartTicketService:215 - 1B02:V   
+2016-03-31 23:44:21,352 [main] INFO  WalmartTicketService:215 - 1B03:V   
+2016-03-31 23:44:21,353 [main] INFO  WalmartTicketService:215 - 1B04:V   
+2016-03-31 23:44:21,353 [main] INFO  WalmartTicketService:215 - 1B05:V   
+2016-03-31 23:44:21,353 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:44:21,353 [main] INFO  WalmartTicketService:215 - 1C01:V   
+2016-03-31 23:44:21,354 [main] INFO  WalmartTicketService:215 - 1C02:V   
+2016-03-31 23:44:21,354 [main] INFO  WalmartTicketService:215 - 1C03:V   
+2016-03-31 23:44:21,355 [main] INFO  WalmartTicketService:215 - 1C04:V   
+2016-03-31 23:44:21,355 [main] INFO  WalmartTicketService:215 - 1C05:V   
+2016-03-31 23:44:21,356 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:44:21,357 [main] INFO  WalmartTicketService:215 - 1D01:V   
+2016-03-31 23:44:21,357 [main] INFO  WalmartTicketService:215 - 1D02:V   
+2016-03-31 23:44:21,358 [main] INFO  WalmartTicketService:215 - 1D03:V   
+2016-03-31 23:44:21,358 [main] INFO  WalmartTicketService:215 - 1D04:V   
+2016-03-31 23:44:21,358 [main] INFO  WalmartTicketService:215 - 1D05:V   
+2016-03-31 23:44:21,359 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:44:21,359 [main] INFO  WalmartTicketService:215 - 1E01:V   
+2016-03-31 23:44:21,359 [main] INFO  WalmartTicketService:215 - 1E02:V   
+2016-03-31 23:44:21,360 [main] INFO  WalmartTicketService:215 - 1E03:V   
+2016-03-31 23:44:21,360 [main] INFO  WalmartTicketService:215 - 1E04:V   
+2016-03-31 23:44:21,360 [main] INFO  WalmartTicketService:215 - 1E05:V   
+2016-03-31 23:44:21,360 [main] INFO  WalmartTicketService:222 - 
+
+2016-03-31 23:44:21,361 [main] INFO  WalmartTicketService:226 - Total Available Seats = 25
+
+2016-03-31 23:54:44,177 [main] INFO  WalmartTicketService:212 - -----------------------------------------------------------------------------------------
+2016-03-31 23:54:44,178 [main] INFO  WalmartTicketService:213 -               SEATS IN VENUE LEVEL Orchestra (V=VACANT, H=HOLD, R=RESERVED)               
+2016-03-31 23:54:44,179 [main] INFO  WalmartTicketService:214 - -----------------------------------------------------------------------------------------
+2016-03-31 23:54:44,179 [main] INFO  WalmartTicketService:218 - 1A01:V   
+2016-03-31 23:54:44,179 [main] INFO  WalmartTicketService:218 - 1A02:V   
+2016-03-31 23:54:44,179 [main] INFO  WalmartTicketService:218 - 1A03:V   
+2016-03-31 23:54:44,179 [main] INFO  WalmartTicketService:218 - 1A04:V   
+2016-03-31 23:54:44,179 [main] INFO  WalmartTicketService:218 - 1A05:V   
+2016-03-31 23:54:44,180 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,180 [main] INFO  WalmartTicketService:218 - 1B01:V   
+2016-03-31 23:54:44,180 [main] INFO  WalmartTicketService:218 - 1B02:V   
+2016-03-31 23:54:44,180 [main] INFO  WalmartTicketService:218 - 1B03:V   
+2016-03-31 23:54:44,180 [main] INFO  WalmartTicketService:218 - 1B04:V   
+2016-03-31 23:54:44,180 [main] INFO  WalmartTicketService:218 - 1B05:V   
+2016-03-31 23:54:44,181 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,181 [main] INFO  WalmartTicketService:218 - 1C01:V   
+2016-03-31 23:54:44,181 [main] INFO  WalmartTicketService:218 - 1C02:V   
+2016-03-31 23:54:44,181 [main] INFO  WalmartTicketService:218 - 1C03:V   
+2016-03-31 23:54:44,181 [main] INFO  WalmartTicketService:218 - 1C04:V   
+2016-03-31 23:54:44,181 [main] INFO  WalmartTicketService:218 - 1C05:V   
+2016-03-31 23:54:44,181 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,182 [main] INFO  WalmartTicketService:218 - 1D01:V   
+2016-03-31 23:54:44,182 [main] INFO  WalmartTicketService:218 - 1D02:V   
+2016-03-31 23:54:44,182 [main] INFO  WalmartTicketService:218 - 1D03:V   
+2016-03-31 23:54:44,182 [main] INFO  WalmartTicketService:218 - 1D04:V   
+2016-03-31 23:54:44,182 [main] INFO  WalmartTicketService:218 - 1D05:V   
+2016-03-31 23:54:44,182 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,182 [main] INFO  WalmartTicketService:218 - 1E01:V   
+2016-03-31 23:54:44,183 [main] INFO  WalmartTicketService:218 - 1E02:V   
+2016-03-31 23:54:44,183 [main] INFO  WalmartTicketService:218 - 1E03:V   
+2016-03-31 23:54:44,183 [main] INFO  WalmartTicketService:218 - 1E04:V   
+2016-03-31 23:54:44,183 [main] INFO  WalmartTicketService:218 - 1E05:V   
+2016-03-31 23:54:44,183 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,183 [main] INFO  WalmartTicketService:229 - Total Available Seats = 25
+
+2016-03-31 23:54:44,184 [main] INFO  WalmartTicketService:75 - Could not find Venue Level. Returning total number of seats available in all levels...
+2016-03-31 23:54:44,184 [main] INFO  WalmartTicketService:212 - -----------------------------------------------------------------------------------------
+2016-03-31 23:54:44,184 [main] INFO  WalmartTicketService:213 -               SEATS IN VENUE LEVEL Orchestra (V=VACANT, H=HOLD, R=RESERVED)               
+2016-03-31 23:54:44,184 [main] INFO  WalmartTicketService:214 - -----------------------------------------------------------------------------------------
+2016-03-31 23:54:44,184 [main] INFO  WalmartTicketService:218 - 1A01:V   
+2016-03-31 23:54:44,184 [main] INFO  WalmartTicketService:218 - 1A02:V   
+2016-03-31 23:54:44,185 [main] INFO  WalmartTicketService:218 - 1A03:V   
+2016-03-31 23:54:44,185 [main] INFO  WalmartTicketService:218 - 1A04:V   
+2016-03-31 23:54:44,185 [main] INFO  WalmartTicketService:218 - 1A05:V   
+2016-03-31 23:54:44,185 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,185 [main] INFO  WalmartTicketService:218 - 1B01:V   
+2016-03-31 23:54:44,185 [main] INFO  WalmartTicketService:218 - 1B02:V   
+2016-03-31 23:54:44,185 [main] INFO  WalmartTicketService:218 - 1B03:V   
+2016-03-31 23:54:44,185 [main] INFO  WalmartTicketService:218 - 1B04:V   
+2016-03-31 23:54:44,186 [main] INFO  WalmartTicketService:218 - 1B05:V   
+2016-03-31 23:54:44,186 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,186 [main] INFO  WalmartTicketService:218 - 1C01:V   
+2016-03-31 23:54:44,186 [main] INFO  WalmartTicketService:218 - 1C02:V   
+2016-03-31 23:54:44,186 [main] INFO  WalmartTicketService:218 - 1C03:V   
+2016-03-31 23:54:44,186 [main] INFO  WalmartTicketService:218 - 1C04:V   
+2016-03-31 23:54:44,186 [main] INFO  WalmartTicketService:218 - 1C05:V   
+2016-03-31 23:54:44,186 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,186 [main] INFO  WalmartTicketService:218 - 1D01:V   
+2016-03-31 23:54:44,187 [main] INFO  WalmartTicketService:218 - 1D02:V   
+2016-03-31 23:54:44,187 [main] INFO  WalmartTicketService:218 - 1D03:V   
+2016-03-31 23:54:44,187 [main] INFO  WalmartTicketService:218 - 1D04:V   
+2016-03-31 23:54:44,187 [main] INFO  WalmartTicketService:218 - 1D05:V   
+2016-03-31 23:54:44,187 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,187 [main] INFO  WalmartTicketService:218 - 1E01:V   
+2016-03-31 23:54:44,187 [main] INFO  WalmartTicketService:218 - 1E02:V   
+2016-03-31 23:54:44,188 [main] INFO  WalmartTicketService:218 - 1E03:V   
+2016-03-31 23:54:44,188 [main] INFO  WalmartTicketService:218 - 1E04:V   
+2016-03-31 23:54:44,188 [main] INFO  WalmartTicketService:218 - 1E05:V   
+2016-03-31 23:54:44,188 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,188 [main] INFO  WalmartTicketService:229 - Total Available Seats = 25
+
+2016-03-31 23:54:44,193 [main] INFO  WalmartTicketService:119 - Customer does not exist in the system. New Customer with email, test0@gmail.com, will be added to the database. Processing request...
+2016-03-31 23:54:44,196 [main] INFO  WalmartTicketService:212 - -----------------------------------------------------------------------------------------
+2016-03-31 23:54:44,196 [main] INFO  WalmartTicketService:213 -               SEATS IN VENUE LEVEL Orchestra (V=VACANT, H=HOLD, R=RESERVED)               
+2016-03-31 23:54:44,196 [main] INFO  WalmartTicketService:214 - -----------------------------------------------------------------------------------------
+2016-03-31 23:54:44,197 [main] INFO  WalmartTicketService:218 - 1A01:H   
+2016-03-31 23:54:44,197 [main] INFO  WalmartTicketService:218 - 1A02:H   
+2016-03-31 23:54:44,197 [main] INFO  WalmartTicketService:218 - 1A03:H   
+2016-03-31 23:54:44,197 [main] INFO  WalmartTicketService:218 - 1A04:H   
+2016-03-31 23:54:44,197 [main] INFO  WalmartTicketService:218 - 1A05:V   
+2016-03-31 23:54:44,197 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,198 [main] INFO  WalmartTicketService:218 - 1B01:V   
+2016-03-31 23:54:44,198 [main] INFO  WalmartTicketService:218 - 1B02:V   
+2016-03-31 23:54:44,198 [main] INFO  WalmartTicketService:218 - 1B03:V   
+2016-03-31 23:54:44,198 [main] INFO  WalmartTicketService:218 - 1B04:V   
+2016-03-31 23:54:44,198 [main] INFO  WalmartTicketService:218 - 1B05:V   
+2016-03-31 23:54:44,198 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,198 [main] INFO  WalmartTicketService:218 - 1C01:V   
+2016-03-31 23:54:44,198 [main] INFO  WalmartTicketService:218 - 1C02:V   
+2016-03-31 23:54:44,198 [main] INFO  WalmartTicketService:218 - 1C03:V   
+2016-03-31 23:54:44,198 [main] INFO  WalmartTicketService:218 - 1C04:V   
+2016-03-31 23:54:44,199 [main] INFO  WalmartTicketService:218 - 1C05:V   
+2016-03-31 23:54:44,199 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,199 [main] INFO  WalmartTicketService:218 - 1D01:V   
+2016-03-31 23:54:44,199 [main] INFO  WalmartTicketService:218 - 1D02:V   
+2016-03-31 23:54:44,199 [main] INFO  WalmartTicketService:218 - 1D03:V   
+2016-03-31 23:54:44,199 [main] INFO  WalmartTicketService:218 - 1D04:V   
+2016-03-31 23:54:44,199 [main] INFO  WalmartTicketService:218 - 1D05:V   
+2016-03-31 23:54:44,199 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,200 [main] INFO  WalmartTicketService:218 - 1E01:V   
+2016-03-31 23:54:44,200 [main] INFO  WalmartTicketService:218 - 1E02:V   
+2016-03-31 23:54:44,200 [main] INFO  WalmartTicketService:218 - 1E03:V   
+2016-03-31 23:54:44,200 [main] INFO  WalmartTicketService:218 - 1E04:V   
+2016-03-31 23:54:44,200 [main] INFO  WalmartTicketService:218 - 1E05:V   
+2016-03-31 23:54:44,200 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,201 [main] INFO  WalmartTicketService:229 - Total Available Seats = 21
+
+2016-03-31 23:54:44,201 [main] INFO  WalmartTicketService:119 - Customer does not exist in the system. New Customer with email, test@gmail.com, will be added to the database. Processing request...
+2016-03-31 23:54:44,201 [main] INFO  WalmartTicketService:212 - -----------------------------------------------------------------------------------------
+2016-03-31 23:54:44,201 [main] INFO  WalmartTicketService:213 -               SEATS IN VENUE LEVEL Orchestra (V=VACANT, H=HOLD, R=RESERVED)               
+2016-03-31 23:54:44,202 [main] INFO  WalmartTicketService:214 - -----------------------------------------------------------------------------------------
+2016-03-31 23:54:44,202 [main] INFO  WalmartTicketService:218 - 1A01:H   
+2016-03-31 23:54:44,202 [main] INFO  WalmartTicketService:218 - 1A02:H   
+2016-03-31 23:54:44,202 [main] INFO  WalmartTicketService:218 - 1A03:H   
+2016-03-31 23:54:44,202 [main] INFO  WalmartTicketService:218 - 1A04:H   
+2016-03-31 23:54:44,202 [main] INFO  WalmartTicketService:218 - 1A05:V   
+2016-03-31 23:54:44,202 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,202 [main] INFO  WalmartTicketService:218 - 1B01:H   
+2016-03-31 23:54:44,202 [main] INFO  WalmartTicketService:218 - 1B02:H   
+2016-03-31 23:54:44,203 [main] INFO  WalmartTicketService:218 - 1B03:H   
+2016-03-31 23:54:44,204 [main] INFO  WalmartTicketService:218 - 1B04:V   
+2016-03-31 23:54:44,204 [main] INFO  WalmartTicketService:218 - 1B05:V   
+2016-03-31 23:54:44,204 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,204 [main] INFO  WalmartTicketService:218 - 1C01:V   
+2016-03-31 23:54:44,204 [main] INFO  WalmartTicketService:218 - 1C02:V   
+2016-03-31 23:54:44,204 [main] INFO  WalmartTicketService:218 - 1C03:V   
+2016-03-31 23:54:44,204 [main] INFO  WalmartTicketService:218 - 1C04:V   
+2016-03-31 23:54:44,204 [main] INFO  WalmartTicketService:218 - 1C05:V   
+2016-03-31 23:54:44,205 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,205 [main] INFO  WalmartTicketService:218 - 1D01:V   
+2016-03-31 23:54:44,205 [main] INFO  WalmartTicketService:218 - 1D02:V   
+2016-03-31 23:54:44,205 [main] INFO  WalmartTicketService:218 - 1D03:V   
+2016-03-31 23:54:44,205 [main] INFO  WalmartTicketService:218 - 1D04:V   
+2016-03-31 23:54:44,205 [main] INFO  WalmartTicketService:218 - 1D05:V   
+2016-03-31 23:54:44,205 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,206 [main] INFO  WalmartTicketService:218 - 1E01:V   
+2016-03-31 23:54:44,206 [main] INFO  WalmartTicketService:218 - 1E02:V   
+2016-03-31 23:54:44,206 [main] INFO  WalmartTicketService:218 - 1E03:V   
+2016-03-31 23:54:44,206 [main] INFO  WalmartTicketService:218 - 1E04:V   
+2016-03-31 23:54:44,206 [main] INFO  WalmartTicketService:218 - 1E05:V   
+2016-03-31 23:54:44,206 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,206 [main] INFO  WalmartTicketService:229 - Total Available Seats = 18
+
+2016-03-31 23:54:44,206 [main] INFO  WalmartTicketService:172 - SeatHold with id, 1, and customer with email, test0@gmail.com, found in the system. Processing request...
+2016-03-31 23:54:44,294 [main] INFO  WalmartTicketService:188 - SeatResevation with ID, 1, and for customer with email, test0@gmail.com, has been created in the system.
+2016-03-31 23:54:44,295 [main] INFO  WalmartTicketService:212 - -----------------------------------------------------------------------------------------
+2016-03-31 23:54:44,295 [main] INFO  WalmartTicketService:213 -               SEATS IN VENUE LEVEL Orchestra (V=VACANT, H=HOLD, R=RESERVED)               
+2016-03-31 23:54:44,295 [main] INFO  WalmartTicketService:214 - -----------------------------------------------------------------------------------------
+2016-03-31 23:54:44,295 [main] INFO  WalmartTicketService:218 - 1A01:R   
+2016-03-31 23:54:44,295 [main] INFO  WalmartTicketService:218 - 1A02:R   
+2016-03-31 23:54:44,295 [main] INFO  WalmartTicketService:218 - 1A03:R   
+2016-03-31 23:54:44,295 [main] INFO  WalmartTicketService:218 - 1A04:R   
+2016-03-31 23:54:44,295 [main] INFO  WalmartTicketService:218 - 1A05:V   
+2016-03-31 23:54:44,295 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,295 [main] INFO  WalmartTicketService:218 - 1B01:H   
+2016-03-31 23:54:44,296 [main] INFO  WalmartTicketService:218 - 1B02:H   
+2016-03-31 23:54:44,296 [main] INFO  WalmartTicketService:218 - 1B03:H   
+2016-03-31 23:54:44,296 [main] INFO  WalmartTicketService:218 - 1B04:V   
+2016-03-31 23:54:44,296 [main] INFO  WalmartTicketService:218 - 1B05:V   
+2016-03-31 23:54:44,296 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,296 [main] INFO  WalmartTicketService:218 - 1C01:V   
+2016-03-31 23:54:44,296 [main] INFO  WalmartTicketService:218 - 1C02:V   
+2016-03-31 23:54:44,296 [main] INFO  WalmartTicketService:218 - 1C03:V   
+2016-03-31 23:54:44,296 [main] INFO  WalmartTicketService:218 - 1C04:V   
+2016-03-31 23:54:44,296 [main] INFO  WalmartTicketService:218 - 1C05:V   
+2016-03-31 23:54:44,297 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,297 [main] INFO  WalmartTicketService:218 - 1D01:V   
+2016-03-31 23:54:44,297 [main] INFO  WalmartTicketService:218 - 1D02:V   
+2016-03-31 23:54:44,297 [main] INFO  WalmartTicketService:218 - 1D03:V   
+2016-03-31 23:54:44,297 [main] INFO  WalmartTicketService:218 - 1D04:V   
+2016-03-31 23:54:44,297 [main] INFO  WalmartTicketService:218 - 1D05:V   
+2016-03-31 23:54:44,297 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,297 [main] INFO  WalmartTicketService:218 - 1E01:V   
+2016-03-31 23:54:44,297 [main] INFO  WalmartTicketService:218 - 1E02:V   
+2016-03-31 23:54:44,297 [main] INFO  WalmartTicketService:218 - 1E03:V   
+2016-03-31 23:54:44,297 [main] INFO  WalmartTicketService:218 - 1E04:V   
+2016-03-31 23:54:44,297 [main] INFO  WalmartTicketService:218 - 1E05:V   
+2016-03-31 23:54:44,297 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:54:44,298 [main] INFO  WalmartTicketService:229 - Total Available Seats = 18
+
+2016-03-31 23:55:24,298 [main] INFO  WalmartTicketService:212 - -----------------------------------------------------------------------------------------
+2016-03-31 23:55:24,299 [main] INFO  WalmartTicketService:213 -               SEATS IN VENUE LEVEL Orchestra (V=VACANT, H=HOLD, R=RESERVED)               
+2016-03-31 23:55:24,299 [main] INFO  WalmartTicketService:214 - -----------------------------------------------------------------------------------------
+2016-03-31 23:55:24,299 [main] INFO  WalmartTicketService:218 - 1A01:R   
+2016-03-31 23:55:24,300 [main] INFO  WalmartTicketService:218 - 1A02:R   
+2016-03-31 23:55:24,300 [main] INFO  WalmartTicketService:218 - 1A03:R   
+2016-03-31 23:55:24,300 [main] INFO  WalmartTicketService:218 - 1A04:R   
+2016-03-31 23:55:24,301 [main] INFO  WalmartTicketService:218 - 1A05:V   
+2016-03-31 23:55:24,301 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:55:24,301 [main] INFO  WalmartTicketService:218 - 1B01:V   
+2016-03-31 23:55:24,301 [main] INFO  WalmartTicketService:218 - 1B02:V   
+2016-03-31 23:55:24,302 [main] INFO  WalmartTicketService:218 - 1B03:V   
+2016-03-31 23:55:24,302 [main] INFO  WalmartTicketService:218 - 1B04:V   
+2016-03-31 23:55:24,302 [main] INFO  WalmartTicketService:218 - 1B05:V   
+2016-03-31 23:55:24,303 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:55:24,303 [main] INFO  WalmartTicketService:218 - 1C01:V   
+2016-03-31 23:55:24,303 [main] INFO  WalmartTicketService:218 - 1C02:V   
+2016-03-31 23:55:24,304 [main] INFO  WalmartTicketService:218 - 1C03:V   
+2016-03-31 23:55:24,304 [main] INFO  WalmartTicketService:218 - 1C04:V   
+2016-03-31 23:55:24,304 [main] INFO  WalmartTicketService:218 - 1C05:V   
+2016-03-31 23:55:24,304 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:55:24,305 [main] INFO  WalmartTicketService:218 - 1D01:V   
+2016-03-31 23:55:24,305 [main] INFO  WalmartTicketService:218 - 1D02:V   
+2016-03-31 23:55:24,305 [main] INFO  WalmartTicketService:218 - 1D03:V   
+2016-03-31 23:55:24,306 [main] INFO  WalmartTicketService:218 - 1D04:V   
+2016-03-31 23:55:24,306 [main] INFO  WalmartTicketService:218 - 1D05:V   
+2016-03-31 23:55:24,306 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:55:24,306 [main] INFO  WalmartTicketService:218 - 1E01:V   
+2016-03-31 23:55:24,307 [main] INFO  WalmartTicketService:218 - 1E02:V   
+2016-03-31 23:55:24,307 [main] INFO  WalmartTicketService:218 - 1E03:V   
+2016-03-31 23:55:24,307 [main] INFO  WalmartTicketService:218 - 1E04:V   
+2016-03-31 23:55:24,307 [main] INFO  WalmartTicketService:218 - 1E05:V   
+2016-03-31 23:55:24,308 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:55:24,308 [main] INFO  WalmartTicketService:229 - Total Available Seats = 21
+
+2016-03-31 23:58:04,868 [main] INFO  WalmartTicketService:212 - -----------------------------------------------------------------------------------------
+2016-03-31 23:58:04,869 [main] INFO  WalmartTicketService:213 -               SEATS IN VENUE LEVEL Orchestra (V=VACANT, H=HOLD, R=RESERVED)               
+2016-03-31 23:58:04,869 [main] INFO  WalmartTicketService:214 - -----------------------------------------------------------------------------------------
+2016-03-31 23:58:04,870 [main] INFO  WalmartTicketService:218 - 1A01:V   
+2016-03-31 23:58:04,870 [main] INFO  WalmartTicketService:218 - 1A02:V   
+2016-03-31 23:58:04,870 [main] INFO  WalmartTicketService:218 - 1A03:V   
+2016-03-31 23:58:04,870 [main] INFO  WalmartTicketService:218 - 1A04:V   
+2016-03-31 23:58:04,870 [main] INFO  WalmartTicketService:218 - 1A05:V   
+2016-03-31 23:58:04,870 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,870 [main] INFO  WalmartTicketService:218 - 1B01:V   
+2016-03-31 23:58:04,871 [main] INFO  WalmartTicketService:218 - 1B02:V   
+2016-03-31 23:58:04,871 [main] INFO  WalmartTicketService:218 - 1B03:V   
+2016-03-31 23:58:04,871 [main] INFO  WalmartTicketService:218 - 1B04:V   
+2016-03-31 23:58:04,871 [main] INFO  WalmartTicketService:218 - 1B05:V   
+2016-03-31 23:58:04,871 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,872 [main] INFO  WalmartTicketService:218 - 1C01:V   
+2016-03-31 23:58:04,872 [main] INFO  WalmartTicketService:218 - 1C02:V   
+2016-03-31 23:58:04,872 [main] INFO  WalmartTicketService:218 - 1C03:V   
+2016-03-31 23:58:04,872 [main] INFO  WalmartTicketService:218 - 1C04:V   
+2016-03-31 23:58:04,873 [main] INFO  WalmartTicketService:218 - 1C05:V   
+2016-03-31 23:58:04,873 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,873 [main] INFO  WalmartTicketService:218 - 1D01:V   
+2016-03-31 23:58:04,873 [main] INFO  WalmartTicketService:218 - 1D02:V   
+2016-03-31 23:58:04,873 [main] INFO  WalmartTicketService:218 - 1D03:V   
+2016-03-31 23:58:04,873 [main] INFO  WalmartTicketService:218 - 1D04:V   
+2016-03-31 23:58:04,874 [main] INFO  WalmartTicketService:218 - 1D05:V   
+2016-03-31 23:58:04,874 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,874 [main] INFO  WalmartTicketService:218 - 1E01:V   
+2016-03-31 23:58:04,874 [main] INFO  WalmartTicketService:218 - 1E02:V   
+2016-03-31 23:58:04,874 [main] INFO  WalmartTicketService:218 - 1E03:V   
+2016-03-31 23:58:04,874 [main] INFO  WalmartTicketService:218 - 1E04:V   
+2016-03-31 23:58:04,874 [main] INFO  WalmartTicketService:218 - 1E05:V   
+2016-03-31 23:58:04,875 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,875 [main] INFO  WalmartTicketService:229 - Total Available Seats = 25
+
+2016-03-31 23:58:04,875 [main] INFO  WalmartTicketService:75 - Could not find Venue Level. Returning total number of seats available in all levels...
+2016-03-31 23:58:04,875 [main] INFO  WalmartTicketService:212 - -----------------------------------------------------------------------------------------
+2016-03-31 23:58:04,875 [main] INFO  WalmartTicketService:213 -               SEATS IN VENUE LEVEL Orchestra (V=VACANT, H=HOLD, R=RESERVED)               
+2016-03-31 23:58:04,875 [main] INFO  WalmartTicketService:214 - -----------------------------------------------------------------------------------------
+2016-03-31 23:58:04,876 [main] INFO  WalmartTicketService:218 - 1A01:V   
+2016-03-31 23:58:04,876 [main] INFO  WalmartTicketService:218 - 1A02:V   
+2016-03-31 23:58:04,876 [main] INFO  WalmartTicketService:218 - 1A03:V   
+2016-03-31 23:58:04,876 [main] INFO  WalmartTicketService:218 - 1A04:V   
+2016-03-31 23:58:04,876 [main] INFO  WalmartTicketService:218 - 1A05:V   
+2016-03-31 23:58:04,876 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,877 [main] INFO  WalmartTicketService:218 - 1B01:V   
+2016-03-31 23:58:04,877 [main] INFO  WalmartTicketService:218 - 1B02:V   
+2016-03-31 23:58:04,877 [main] INFO  WalmartTicketService:218 - 1B03:V   
+2016-03-31 23:58:04,877 [main] INFO  WalmartTicketService:218 - 1B04:V   
+2016-03-31 23:58:04,877 [main] INFO  WalmartTicketService:218 - 1B05:V   
+2016-03-31 23:58:04,877 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,878 [main] INFO  WalmartTicketService:218 - 1C01:V   
+2016-03-31 23:58:04,878 [main] INFO  WalmartTicketService:218 - 1C02:V   
+2016-03-31 23:58:04,878 [main] INFO  WalmartTicketService:218 - 1C03:V   
+2016-03-31 23:58:04,878 [main] INFO  WalmartTicketService:218 - 1C04:V   
+2016-03-31 23:58:04,878 [main] INFO  WalmartTicketService:218 - 1C05:V   
+2016-03-31 23:58:04,878 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,878 [main] INFO  WalmartTicketService:218 - 1D01:V   
+2016-03-31 23:58:04,878 [main] INFO  WalmartTicketService:218 - 1D02:V   
+2016-03-31 23:58:04,878 [main] INFO  WalmartTicketService:218 - 1D03:V   
+2016-03-31 23:58:04,879 [main] INFO  WalmartTicketService:218 - 1D04:V   
+2016-03-31 23:58:04,879 [main] INFO  WalmartTicketService:218 - 1D05:V   
+2016-03-31 23:58:04,879 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,879 [main] INFO  WalmartTicketService:218 - 1E01:V   
+2016-03-31 23:58:04,879 [main] INFO  WalmartTicketService:218 - 1E02:V   
+2016-03-31 23:58:04,879 [main] INFO  WalmartTicketService:218 - 1E03:V   
+2016-03-31 23:58:04,880 [main] INFO  WalmartTicketService:218 - 1E04:V   
+2016-03-31 23:58:04,880 [main] INFO  WalmartTicketService:218 - 1E05:V   
+2016-03-31 23:58:04,880 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,880 [main] INFO  WalmartTicketService:229 - Total Available Seats = 25
+
+2016-03-31 23:58:04,885 [main] INFO  WalmartTicketService:119 - Customer does not exist in the system. New Customer with email, test0@gmail.com, will be added to the database. Processing request...
+2016-03-31 23:58:04,888 [main] INFO  WalmartTicketService:212 - -----------------------------------------------------------------------------------------
+2016-03-31 23:58:04,888 [main] INFO  WalmartTicketService:213 -               SEATS IN VENUE LEVEL Orchestra (V=VACANT, H=HOLD, R=RESERVED)               
+2016-03-31 23:58:04,889 [main] INFO  WalmartTicketService:214 - -----------------------------------------------------------------------------------------
+2016-03-31 23:58:04,889 [main] INFO  WalmartTicketService:218 - 1A01:H   
+2016-03-31 23:58:04,889 [main] INFO  WalmartTicketService:218 - 1A02:H   
+2016-03-31 23:58:04,889 [main] INFO  WalmartTicketService:218 - 1A03:H   
+2016-03-31 23:58:04,889 [main] INFO  WalmartTicketService:218 - 1A04:H   
+2016-03-31 23:58:04,889 [main] INFO  WalmartTicketService:218 - 1A05:V   
+2016-03-31 23:58:04,890 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,890 [main] INFO  WalmartTicketService:218 - 1B01:V   
+2016-03-31 23:58:04,890 [main] INFO  WalmartTicketService:218 - 1B02:V   
+2016-03-31 23:58:04,890 [main] INFO  WalmartTicketService:218 - 1B03:V   
+2016-03-31 23:58:04,890 [main] INFO  WalmartTicketService:218 - 1B04:V   
+2016-03-31 23:58:04,890 [main] INFO  WalmartTicketService:218 - 1B05:V   
+2016-03-31 23:58:04,890 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,891 [main] INFO  WalmartTicketService:218 - 1C01:V   
+2016-03-31 23:58:04,891 [main] INFO  WalmartTicketService:218 - 1C02:V   
+2016-03-31 23:58:04,891 [main] INFO  WalmartTicketService:218 - 1C03:V   
+2016-03-31 23:58:04,891 [main] INFO  WalmartTicketService:218 - 1C04:V   
+2016-03-31 23:58:04,891 [main] INFO  WalmartTicketService:218 - 1C05:V   
+2016-03-31 23:58:04,891 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,891 [main] INFO  WalmartTicketService:218 - 1D01:V   
+2016-03-31 23:58:04,891 [main] INFO  WalmartTicketService:218 - 1D02:V   
+2016-03-31 23:58:04,891 [main] INFO  WalmartTicketService:218 - 1D03:V   
+2016-03-31 23:58:04,891 [main] INFO  WalmartTicketService:218 - 1D04:V   
+2016-03-31 23:58:04,892 [main] INFO  WalmartTicketService:218 - 1D05:V   
+2016-03-31 23:58:04,892 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,892 [main] INFO  WalmartTicketService:218 - 1E01:V   
+2016-03-31 23:58:04,892 [main] INFO  WalmartTicketService:218 - 1E02:V   
+2016-03-31 23:58:04,892 [main] INFO  WalmartTicketService:218 - 1E03:V   
+2016-03-31 23:58:04,892 [main] INFO  WalmartTicketService:218 - 1E04:V   
+2016-03-31 23:58:04,892 [main] INFO  WalmartTicketService:218 - 1E05:V   
+2016-03-31 23:58:04,892 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,892 [main] INFO  WalmartTicketService:229 - Total Available Seats = 21
+
+2016-03-31 23:58:04,893 [main] INFO  WalmartTicketService:119 - Customer does not exist in the system. New Customer with email, test@gmail.com, will be added to the database. Processing request...
+2016-03-31 23:58:04,893 [main] INFO  WalmartTicketService:212 - -----------------------------------------------------------------------------------------
+2016-03-31 23:58:04,893 [main] INFO  WalmartTicketService:213 -               SEATS IN VENUE LEVEL Orchestra (V=VACANT, H=HOLD, R=RESERVED)               
+2016-03-31 23:58:04,893 [main] INFO  WalmartTicketService:214 - -----------------------------------------------------------------------------------------
+2016-03-31 23:58:04,894 [main] INFO  WalmartTicketService:218 - 1A01:H   
+2016-03-31 23:58:04,894 [main] INFO  WalmartTicketService:218 - 1A02:H   
+2016-03-31 23:58:04,894 [main] INFO  WalmartTicketService:218 - 1A03:H   
+2016-03-31 23:58:04,894 [main] INFO  WalmartTicketService:218 - 1A04:H   
+2016-03-31 23:58:04,894 [main] INFO  WalmartTicketService:218 - 1A05:V   
+2016-03-31 23:58:04,894 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,894 [main] INFO  WalmartTicketService:218 - 1B01:H   
+2016-03-31 23:58:04,894 [main] INFO  WalmartTicketService:218 - 1B02:H   
+2016-03-31 23:58:04,894 [main] INFO  WalmartTicketService:218 - 1B03:H   
+2016-03-31 23:58:04,895 [main] INFO  WalmartTicketService:218 - 1B04:V   
+2016-03-31 23:58:04,896 [main] INFO  WalmartTicketService:218 - 1B05:V   
+2016-03-31 23:58:04,896 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,896 [main] INFO  WalmartTicketService:218 - 1C01:V   
+2016-03-31 23:58:04,896 [main] INFO  WalmartTicketService:218 - 1C02:V   
+2016-03-31 23:58:04,896 [main] INFO  WalmartTicketService:218 - 1C03:V   
+2016-03-31 23:58:04,896 [main] INFO  WalmartTicketService:218 - 1C04:V   
+2016-03-31 23:58:04,896 [main] INFO  WalmartTicketService:218 - 1C05:V   
+2016-03-31 23:58:04,896 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,896 [main] INFO  WalmartTicketService:218 - 1D01:V   
+2016-03-31 23:58:04,897 [main] INFO  WalmartTicketService:218 - 1D02:V   
+2016-03-31 23:58:04,897 [main] INFO  WalmartTicketService:218 - 1D03:V   
+2016-03-31 23:58:04,897 [main] INFO  WalmartTicketService:218 - 1D04:V   
+2016-03-31 23:58:04,897 [main] INFO  WalmartTicketService:218 - 1D05:V   
+2016-03-31 23:58:04,897 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,897 [main] INFO  WalmartTicketService:218 - 1E01:V   
+2016-03-31 23:58:04,897 [main] INFO  WalmartTicketService:218 - 1E02:V   
+2016-03-31 23:58:04,897 [main] INFO  WalmartTicketService:218 - 1E03:V   
+2016-03-31 23:58:04,897 [main] INFO  WalmartTicketService:218 - 1E04:V   
+2016-03-31 23:58:04,897 [main] INFO  WalmartTicketService:218 - 1E05:V   
+2016-03-31 23:58:04,898 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,898 [main] INFO  WalmartTicketService:229 - Total Available Seats = 18
+
+2016-03-31 23:58:04,898 [main] INFO  WalmartTicketService:119 - Customer does not exist in the system. New Customer with email, test2@gmail.com, will be added to the database. Processing request...
+2016-03-31 23:58:04,898 [main] INFO  WalmartTicketService:212 - -----------------------------------------------------------------------------------------
+2016-03-31 23:58:04,898 [main] INFO  WalmartTicketService:213 -               SEATS IN VENUE LEVEL Orchestra (V=VACANT, H=HOLD, R=RESERVED)               
+2016-03-31 23:58:04,898 [main] INFO  WalmartTicketService:214 - -----------------------------------------------------------------------------------------
+2016-03-31 23:58:04,899 [main] INFO  WalmartTicketService:218 - 1A01:H   
+2016-03-31 23:58:04,899 [main] INFO  WalmartTicketService:218 - 1A02:H   
+2016-03-31 23:58:04,899 [main] INFO  WalmartTicketService:218 - 1A03:H   
+2016-03-31 23:58:04,899 [main] INFO  WalmartTicketService:218 - 1A04:H   
+2016-03-31 23:58:04,899 [main] INFO  WalmartTicketService:218 - 1A05:V   
+2016-03-31 23:58:04,899 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,899 [main] INFO  WalmartTicketService:218 - 1B01:H   
+2016-03-31 23:58:04,899 [main] INFO  WalmartTicketService:218 - 1B02:H   
+2016-03-31 23:58:04,899 [main] INFO  WalmartTicketService:218 - 1B03:H   
+2016-03-31 23:58:04,899 [main] INFO  WalmartTicketService:218 - 1B04:H   
+2016-03-31 23:58:04,899 [main] INFO  WalmartTicketService:218 - 1B05:H   
+2016-03-31 23:58:04,900 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,900 [main] INFO  WalmartTicketService:218 - 1C01:V   
+2016-03-31 23:58:04,900 [main] INFO  WalmartTicketService:218 - 1C02:V   
+2016-03-31 23:58:04,900 [main] INFO  WalmartTicketService:218 - 1C03:V   
+2016-03-31 23:58:04,900 [main] INFO  WalmartTicketService:218 - 1C04:V   
+2016-03-31 23:58:04,900 [main] INFO  WalmartTicketService:218 - 1C05:V   
+2016-03-31 23:58:04,900 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,900 [main] INFO  WalmartTicketService:218 - 1D01:V   
+2016-03-31 23:58:04,900 [main] INFO  WalmartTicketService:218 - 1D02:V   
+2016-03-31 23:58:04,900 [main] INFO  WalmartTicketService:218 - 1D03:V   
+2016-03-31 23:58:04,900 [main] INFO  WalmartTicketService:218 - 1D04:V   
+2016-03-31 23:58:04,901 [main] INFO  WalmartTicketService:218 - 1D05:V   
+2016-03-31 23:58:04,901 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,901 [main] INFO  WalmartTicketService:218 - 1E01:V   
+2016-03-31 23:58:04,901 [main] INFO  WalmartTicketService:218 - 1E02:V   
+2016-03-31 23:58:04,901 [main] INFO  WalmartTicketService:218 - 1E03:V   
+2016-03-31 23:58:04,901 [main] INFO  WalmartTicketService:218 - 1E04:V   
+2016-03-31 23:58:04,901 [main] INFO  WalmartTicketService:218 - 1E05:V   
+2016-03-31 23:58:04,901 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,902 [main] INFO  WalmartTicketService:229 - Total Available Seats = 16
+
+2016-03-31 23:58:04,902 [main] INFO  WalmartTicketService:172 - SeatHold with id, 1, and customer with email, test0@gmail.com, found in the system. Processing request...
+2016-03-31 23:58:04,982 [main] INFO  WalmartTicketService:188 - SeatResevation with ID, 1, and for customer with email, test0@gmail.com, has been created in the system.
+2016-03-31 23:58:04,983 [main] INFO  WalmartTicketService:212 - -----------------------------------------------------------------------------------------
+2016-03-31 23:58:04,983 [main] INFO  WalmartTicketService:213 -               SEATS IN VENUE LEVEL Orchestra (V=VACANT, H=HOLD, R=RESERVED)               
+2016-03-31 23:58:04,983 [main] INFO  WalmartTicketService:214 - -----------------------------------------------------------------------------------------
+2016-03-31 23:58:04,983 [main] INFO  WalmartTicketService:218 - 1A01:R   
+2016-03-31 23:58:04,983 [main] INFO  WalmartTicketService:218 - 1A02:R   
+2016-03-31 23:58:04,984 [main] INFO  WalmartTicketService:218 - 1A03:R   
+2016-03-31 23:58:04,984 [main] INFO  WalmartTicketService:218 - 1A04:R   
+2016-03-31 23:58:04,984 [main] INFO  WalmartTicketService:218 - 1A05:V   
+2016-03-31 23:58:04,984 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,984 [main] INFO  WalmartTicketService:218 - 1B01:H   
+2016-03-31 23:58:04,984 [main] INFO  WalmartTicketService:218 - 1B02:H   
+2016-03-31 23:58:04,985 [main] INFO  WalmartTicketService:218 - 1B03:H   
+2016-03-31 23:58:04,985 [main] INFO  WalmartTicketService:218 - 1B04:H   
+2016-03-31 23:58:04,985 [main] INFO  WalmartTicketService:218 - 1B05:H   
+2016-03-31 23:58:04,985 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,985 [main] INFO  WalmartTicketService:218 - 1C01:V   
+2016-03-31 23:58:04,985 [main] INFO  WalmartTicketService:218 - 1C02:V   
+2016-03-31 23:58:04,985 [main] INFO  WalmartTicketService:218 - 1C03:V   
+2016-03-31 23:58:04,986 [main] INFO  WalmartTicketService:218 - 1C04:V   
+2016-03-31 23:58:04,986 [main] INFO  WalmartTicketService:218 - 1C05:V   
+2016-03-31 23:58:04,986 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,986 [main] INFO  WalmartTicketService:218 - 1D01:V   
+2016-03-31 23:58:04,986 [main] INFO  WalmartTicketService:218 - 1D02:V   
+2016-03-31 23:58:04,986 [main] INFO  WalmartTicketService:218 - 1D03:V   
+2016-03-31 23:58:04,986 [main] INFO  WalmartTicketService:218 - 1D04:V   
+2016-03-31 23:58:04,986 [main] INFO  WalmartTicketService:218 - 1D05:V   
+2016-03-31 23:58:04,986 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,986 [main] INFO  WalmartTicketService:218 - 1E01:V   
+2016-03-31 23:58:04,986 [main] INFO  WalmartTicketService:218 - 1E02:V   
+2016-03-31 23:58:04,986 [main] INFO  WalmartTicketService:218 - 1E03:V   
+2016-03-31 23:58:04,987 [main] INFO  WalmartTicketService:218 - 1E04:V   
+2016-03-31 23:58:04,987 [main] INFO  WalmartTicketService:218 - 1E05:V   
+2016-03-31 23:58:04,987 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:04,987 [main] INFO  WalmartTicketService:229 - Total Available Seats = 16
+
+2016-03-31 23:58:44,988 [main] INFO  WalmartTicketService:212 - -----------------------------------------------------------------------------------------
+2016-03-31 23:58:44,989 [main] INFO  WalmartTicketService:213 -               SEATS IN VENUE LEVEL Orchestra (V=VACANT, H=HOLD, R=RESERVED)               
+2016-03-31 23:58:44,989 [main] INFO  WalmartTicketService:214 - -----------------------------------------------------------------------------------------
+2016-03-31 23:58:44,990 [main] INFO  WalmartTicketService:218 - 1A01:R   
+2016-03-31 23:58:44,990 [main] INFO  WalmartTicketService:218 - 1A02:R   
+2016-03-31 23:58:44,991 [main] INFO  WalmartTicketService:218 - 1A03:R   
+2016-03-31 23:58:44,991 [main] INFO  WalmartTicketService:218 - 1A04:R   
+2016-03-31 23:58:44,991 [main] INFO  WalmartTicketService:218 - 1A05:V   
+2016-03-31 23:58:44,992 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:44,992 [main] INFO  WalmartTicketService:218 - 1B01:V   
+2016-03-31 23:58:44,992 [main] INFO  WalmartTicketService:218 - 1B02:V   
+2016-03-31 23:58:44,992 [main] INFO  WalmartTicketService:218 - 1B03:V   
+2016-03-31 23:58:44,993 [main] INFO  WalmartTicketService:218 - 1B04:V   
+2016-03-31 23:58:44,993 [main] INFO  WalmartTicketService:218 - 1B05:V   
+2016-03-31 23:58:44,993 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:44,993 [main] INFO  WalmartTicketService:218 - 1C01:V   
+2016-03-31 23:58:44,994 [main] INFO  WalmartTicketService:218 - 1C02:V   
+2016-03-31 23:58:44,994 [main] INFO  WalmartTicketService:218 - 1C03:V   
+2016-03-31 23:58:44,994 [main] INFO  WalmartTicketService:218 - 1C04:V   
+2016-03-31 23:58:44,995 [main] INFO  WalmartTicketService:218 - 1C05:V   
+2016-03-31 23:58:44,995 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:44,995 [main] INFO  WalmartTicketService:218 - 1D01:V   
+2016-03-31 23:58:44,996 [main] INFO  WalmartTicketService:218 - 1D02:V   
+2016-03-31 23:58:44,996 [main] INFO  WalmartTicketService:218 - 1D03:V   
+2016-03-31 23:58:44,996 [main] INFO  WalmartTicketService:218 - 1D04:V   
+2016-03-31 23:58:44,996 [main] INFO  WalmartTicketService:218 - 1D05:V   
+2016-03-31 23:58:44,997 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:44,997 [main] INFO  WalmartTicketService:218 - 1E01:V   
+2016-03-31 23:58:44,997 [main] INFO  WalmartTicketService:218 - 1E02:V   
+2016-03-31 23:58:44,997 [main] INFO  WalmartTicketService:218 - 1E03:V   
+2016-03-31 23:58:44,998 [main] INFO  WalmartTicketService:218 - 1E04:V   
+2016-03-31 23:58:44,998 [main] INFO  WalmartTicketService:218 - 1E05:V   
+2016-03-31 23:58:44,998 [main] INFO  WalmartTicketService:225 - 
+
+2016-03-31 23:58:44,998 [main] INFO  WalmartTicketService:229 - Total Available Seats = 21
+
